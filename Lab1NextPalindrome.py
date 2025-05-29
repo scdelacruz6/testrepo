@@ -3,6 +3,8 @@ CMSC 142 section 2
 Laboratory Exercise 1 
 
 Given an integer n, find the next smallest palindrome integer. 
+
+hello. this is a test repo.
 '''
 
 import time
